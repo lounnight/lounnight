@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=lounnight&show_icons=true&hide_border=true&theme=transparent
+          options: username=lounnight&show_icons=true&hide_border=true&theme=transparent&hide_rank=true
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
