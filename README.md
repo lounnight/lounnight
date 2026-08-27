@@ -19,26 +19,13 @@ Currently working on **LibreGlow** and exploring networking and Linux developmen
 ---
 
 ## ⭐ Projects
+### LibreGlow:
+[GlowSnap](https://github.com/LibreGlow/GlowSnap): A fast and modern **Linux screenshot and screen recording application** built for productivity.
 
-### ✨ GlowSnap
+### Raheq project:
+[Raheq Data](https://github.com/Nothamod6R/raheq-data): Backend services and data infrastructure for **Raheq**, providing APIs and data processing for the application.
 
-A fast and modern **Linux screenshot and screen recording application** built for productivity.
-
-* 📸 Screenshot & annotation tools
-* 🎥 Screen recording
-* 🐧 Linux-focused development
-
-**[Explore GlowSnap →](https://github.com/LibreGlow/GlowSnap)**
-
-### 🕌 Raheq Data
-
-Backend services and data infrastructure for **Raheq**, providing APIs and data processing for the application.
-
-* 🌐 REST APIs
-* 🕋 Islamic application data
-* 🛠️ Node.js backend
-
-**[Explore Raheq Data →](https://github.com/Nothamod6R/raheq-data)**
+[Raheq Extension](https://github.com/lounnight/raheq-extension): A extension in the browsers for **Raheq**, it used to remind people of the prayer.
 
 ---
 
