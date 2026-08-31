@@ -27,6 +27,8 @@ Currently working on **LibreGlow** and exploring networking and Linux developmen
 
 [Raheq Extension](https://github.com/lounnight/raheq-extension): A extension in the browsers for **Raheq**, it used to remind people of the prayer.
 
+[Raheq alislam website](https://github.com/lounnight/raheq-islam-website): A islamic website for **Raheq**, it used to Read Quran, hadith, prayer, etc.
+
 ---
 
 ## 🛠️ Tech Stack
