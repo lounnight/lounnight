@@ -22,6 +22,9 @@ Currently working on **LibreGlow** and exploring networking and Linux developmen
 ### LibreGlow:
 [GlowSnap](https://github.com/LibreGlow/GlowSnap): A fast and modern **Linux screenshot and screen recording application** built for productivity.
 
+### Hifz app:
+[Hifz](https://github.com/hifzapp): A quran app help you:)
+
 ### Raheq project:
 [Raheq Data](https://github.com/Nothamod6R/raheq-data): Backend services and data infrastructure for **Raheq**, providing APIs and data processing for the application.
 
@@ -61,42 +64,6 @@ Currently working on **LibreGlow** and exploring networking and Linux developmen
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square\&logo=qt\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-
----
-
-## 📊 GitHub Status
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="LounNight GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="./profile/top-langs.svg"
-    alt="LounNight Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=lounnight&hide_border=true&theme=transparent"
-    alt="LounNight GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=lounnight&hide_border=true&area=true&theme=github-compact"
-    alt="LounNight GitHub Activity Graph"
-  />
-</p>
 
 ---
 
