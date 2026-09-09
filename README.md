@@ -46,9 +46,6 @@ Currently working on **LibreGlow** and exploring networking and Linux developmen
 ### LibreGlow:
 [GlowSnap](https://github.com/LibreGlow/GlowSnap): A fast and modern **Linux screenshot and screen recording application** built for productivity.
 
-### Hifz app:
-[Hifz](https://github.com/hifzapp): A quran app help you:)
-
 ### Raheq project:
 [Raheq Data](https://github.com/Nothamod6R/raheq-data): Backend services and data infrastructure for **Raheq**, providing APIs and data processing for the application.
 
