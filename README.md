@@ -1,20 +1,8 @@
 # Hi, I'm LounNight 👋
 
-💻 **Full Stack & Desktop App Developer** | 🐧 **Linux User** | 🛠️ **Open Source Contributor**
+💻 **Full Stack & Desktop, Mobile App Developer** | 🐧 **Linux User** | 🛠️ **Open Source Contributor**
 
-I build **desktop applications, web applications, developer tools, and open-source projects**.
-
-Currently working on **LibreGlow** and exploring networking and Linux development.
-
----
-
-## 🚀 What I'm Doing
-
-* 🔭 Building **[LibreGlow](https://github.com/libreglow)** projects
-* 🖥️ Developing Linux **desktop applications**
-* 🌐 Building full-stack web applications
-* 🐧 Exploring Linux and system-level development
-* 🌱 Currently learning **Networking**
+I build **desktop applications, web applications, developer tools, and mobile app**.
 
 ---
 
@@ -40,37 +28,6 @@ Currently working on **LibreGlow** and exploring networking and Linux developmen
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square\&logo=qt\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square\&logo=figma\&logoColor=white)
-
----
-
-## ⭐ Projects
-### LibreGlow:
-[GlowSnap](https://github.com/LibreGlow/GlowSnap): A fast and modern **Linux screenshot and screen recording application** built for productivity.
-
-### Raheq project:
-[Raheq Data](https://github.com/Nothamod6R/raheq-data): Backend services and data infrastructure for **Raheq**, providing APIs and data processing for the application.
-
-[Raheq Extension](https://github.com/lounnight/raheq-extension): A extension in the browsers for **Raheq**, it used to remind people of the prayer.
-
-[Raheq alislam website](https://github.com/lounnight/raheq-islam-website): A islamic website for **Raheq**, it used to Read Quran, hadith, prayer, etc.
-
----
-
-## 🧠 Currently Learning
-
-**Networking**
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/lounnight">
-<img src="https://img.shields.io/badge/GitHub-lounnight-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
